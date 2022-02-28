@@ -8,11 +8,11 @@
 
 https://github.com/tatsukikane/lp-practice-static/projects/1
 
-#サイトURL
+# サイトURL
 
 http://www.tatsukikane.shop/
 
-#ssh接続
+# ssh接続
 
 ```
 ssh tatsukikane@s223.xrea.com
