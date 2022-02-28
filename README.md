@@ -29,6 +29,6 @@ https://cp.xrea.com/site/tools/
 sh deploy.sh
 ```
 
-#必要な情報
+# 必要な情報
 
 「XREA.COM NEW SIGNUP」というメールに書かれています
